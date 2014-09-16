@@ -1,0 +1,34 @@
+<list>
+  <javaapplication7.Site>
+    <name class="javafx.beans.property.SimpleStringProperty">
+      <value>ldgdfglo</value>
+      <valid>false</valid>
+      <name></name>
+    </name>
+    <status class="javafx.beans.property.SimpleStringProperty">
+      <valid>true</valid>
+      <name></name>
+    </status>
+    <change class="javafx.beans.property.SimpleBooleanProperty">
+      <value>false</value>
+      <valid>true</valid>
+      <name></name>
+    </change>
+    <pages class="com.sun.javafx.collections.ObservableListWrapper">
+      <changeBuilder>
+        <list class="com.sun.javafx.collections.ObservableListWrapper" reference="../.."/>
+        <changeLock>0</changeLock>
+        <addRemoveChanges/>
+      </changeBuilder>
+      <backingList>
+        <javaapplication7.Page>
+          <name class="javafx.beans.property.SimpleStringProperty">
+            <value>3333311</value>
+            <valid>false</valid>
+            <name></name>
+          </name>
+        </javaapplication7.Page>
+      </backingList>
+    </pages>
+  </javaapplication7.Site>
+</list>
